@@ -1,9 +1,10 @@
-this is the second one
+this is the remote one
 
 
-this is for delet branch
+this is for remote branch
 
-another change
+another remote change
 
-hive support added utaf
-test_hivewithparquet
+hive support added utaf for remote tests
+
+
